@@ -3,5 +3,10 @@ body:
     attributes:
       label: FAQ
       options:
-        - label: I have verified that my question is *not* in the [FAQ](./../FAQ.md)
+        - label: I have verified that my question is *not* in the [FAQ](https://github.com/XDoubleU/git-hub-workshop/blob/main/FAQ.md)
           required: true
+  - type: textarea
+    attributes:
+      label: Question
+    validations:
+      required: true
