@@ -3,5 +3,5 @@ body:
     attributes:
       label: FAQ
       options:
-        - label: I have verified that my question is *not* in the [FAQ](./FAQ.md)
+        - label: I have verified that my question is *not* in the [FAQ](./../FAQ.md)
           required: true
