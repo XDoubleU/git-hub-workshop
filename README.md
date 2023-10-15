@@ -1,5 +1,7 @@
 # Git(Hub) Workshop
 You can download the slides here: [Slides](./slides)\
+You can find the exercises here: [Exercises](./exercises)\
+You can find the solutions here: [Solutions](./solutions)\
 You can find the FAQ here: [FAQ](./FAQ.md)\
 You can ask your questions here: [Q&A](https://github.com/XDoubleU/git-hub-workshop/discussions/categories/q-a)
 
