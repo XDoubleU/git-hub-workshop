@@ -1,4 +1,4 @@
-# Exercise
+# Exercises
 
 1. Fork and clone this repository.
 2. Choose one of the exercises. In there you can find an example program and specific instructions needed for this language.
