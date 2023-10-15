@@ -10,4 +10,4 @@ Change [this line](https://github.com/XDoubleU/git-hub-workshop/blob/33f7129ef49
 Afterwards make a PR to merge this change on your fork. The `test` check should fail. Afterwards fix this by pushing a new commit to the same branch.
 
 ## Merge open change
-Fix and merge the `go-change` branch.
+Fix and merge the `change/go` branch.
