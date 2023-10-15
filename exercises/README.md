@@ -9,10 +9,9 @@
     - Require status checks to pass before merging. (and add the checks from your GitHub Action)
     - Require conversation resolution before merging.
     - Require linear history.
-6. (Optional) Configure Dependabot and code scanning.
-7. Make a change to your exercise (see instructions of exercise).
-8. Merge your change using a PR (after checks passed).
-9. Fix and merge the open change to your exercise (see instructions of exercise).
+6. Make a change to your exercise (see instructions of exercise).
+7. Merge your change using a PR (after checks passed).
+8. Fix and merge the open change to your exercise (see instructions of exercise).
 
 Solutions (when possible and/or useful) can be found here: [Solutions](./solutions)
 
