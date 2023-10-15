@@ -32,7 +32,7 @@ public class Create : BaseTest
         var data = await Conversion.GetData<Note>(response);
 
         Assert.Equal(HttpStatusCode.OK, response.StatusCode);
-        Assert.Equal(createNoteDto.Title, data?.Title);
+        Assert.Equal("Title", data?.Title);
         Assert.Equal(createNoteDto.Contents, data?.Contents);
     }
 }
