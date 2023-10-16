@@ -6,21 +6,45 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: "/solutions/../"
+    directory: "/solutions/C#/"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "github-actions"
+    directory: "/solutions/Go/"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "github-actions"
+    directory: "/solutions/Python/"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "github-actions"
+    directory: "/solutions/TypeScript/"
+    schedule:
+      interval: "monthly"
+      
+  - package-ecosystem: "nuget"
+    directory: "/exercises/C#/NotesApi/NotesApi"
     schedule:
       interval: "monthly"
   - package-ecosystem: "nuget"
-    directory: "/exercises/C#/../"
+    directory: "/exercises/C#/NotesApi/NotesTests"
     schedule:
       interval: "monthly"
+  - package-ecosystem: "nuget"
+    directory: "/exercises/C#/NotesApi/NotesTypes"
+    schedule:
+      interval: "monthly"
+      
   - package-ecosystem: "gomod"
     directory: "/exercises/Go"
     schedule:
       interval: "monthly"
+      
   - package-ecosystem: "pip"
     directory: "/exercises/Python"
     schedule:
       interval: "monthly"
+      
   - package-ecosystem: "npm"
     directory: "/exercises/TypeScript"
     schedule:
