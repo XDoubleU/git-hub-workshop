@@ -7,7 +7,7 @@ Have following jobs in your GitHub Action:
 
 ## Code change
 TODO\
-Change [this line](https://github.com/XDoubleU/git-hub-workshop/blob/33f7129ef49edcb1bcc8d30d08d33d088f69fd26/exercises/Go/cmd/api/notes_test.go#L105).
+Change [this line](https://github.com/XDoubleU/git-hub-workshop/blob/5ffb01eaa2b94ab1524b2a189632106295de9a03/exercises/TypeScript/apps/api/tests/notes.test.ts#L100).
 Afterwards make a PR to merge this change on your fork. The `test` check should fail. Afterwards fix this by pushing a new commit to the same branch.
 
 ## Merge open change
