@@ -6,7 +6,7 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: "/solutions/C#/"
+    directory: "/solutions/Csharp/"
     schedule:
       interval: "monthly"
   - package-ecosystem: "github-actions"
@@ -23,15 +23,15 @@ updates:
       interval: "monthly"
       
   - package-ecosystem: "nuget"
-    directory: "/exercises/C#/NotesApi/NotesApi"
+    directory: "/exercises/Csharp/NotesApi/NotesApi"
     schedule:
       interval: "monthly"
   - package-ecosystem: "nuget"
-    directory: "/exercises/C#/NotesApi/NotesTests"
+    directory: "/exercises/Csharp/NotesApi/NotesTests"
     schedule:
       interval: "monthly"
   - package-ecosystem: "nuget"
-    directory: "/exercises/C#/NotesApi/NotesTypes"
+    directory: "/exercises/Csharp/NotesApi/NotesTypes"
     schedule:
       interval: "monthly"
       
