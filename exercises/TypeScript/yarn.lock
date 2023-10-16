@@ -3417,6 +3417,13 @@ eslint-plugin-sonarjs@0.19.0:
   resolved "https://registry.yarnpkg.com/eslint-plugin-sonarjs/-/eslint-plugin-sonarjs-0.19.0.tgz#6654bc1c6d24c2183891b8bfe1175004dbba1e3c"
   integrity sha512-6+s5oNk5TFtVlbRxqZN7FIGmjdPCYQKaTzFPmqieCmsU1kBYDzndTeQav0xtQNwZJWu5awWfTGe8Srq9xFOGnw==
 
+eslint-plugin-turbo@1.10.15:
+  version "1.10.15"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-turbo/-/eslint-plugin-turbo-1.10.15.tgz#26930ff0369b52f9f2bb72272846d56dce0c05eb"
+  integrity sha512-Tv4QSKV/U56qGcTqS/UgOvb9HcKFmWOQcVh3HEaj7of94lfaENgfrtK48E2CckQf7amhKs1i+imhCsNCKjkQyA==
+  dependencies:
+    dotenv "16.0.3"
+
 eslint-plugin-turbo@1.10.7:
   version "1.10.7"
   resolved "https://registry.yarnpkg.com/eslint-plugin-turbo/-/eslint-plugin-turbo-1.10.7.tgz#393619177155e324040e6f2c3393410a394f3339"
