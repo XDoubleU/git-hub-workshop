@@ -6,11 +6,11 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: "/solutions/*/"
+    directory: "/solutions/../"
     schedule:
       interval: "monthly"
   - package-ecosystem: "nuget"
-    directory: "/exercises/C#/NotesApi"
+    directory: "/exercises/C#/../"
     schedule:
       interval: "monthly"
   - package-ecosystem: "gomod"
