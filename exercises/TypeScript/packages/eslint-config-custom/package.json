@@ -14,7 +14,7 @@
     "eslint-config-turbo": "1.10.7",
     "eslint-plugin-deprecation": "1.4.1",
     "eslint-plugin-import": "2.28.1",
-    "eslint-plugin-redundant-undefined": "0.4.0",
+    "eslint-plugin-redundant-undefined": "1.0.0",
     "eslint-plugin-sonarjs": "0.19.0",
     "eslint-plugin-turbo": "1.10.7"
   }
