@@ -37,5 +37,5 @@ class NoteViewsTests(TestCase):
     def test_notedeleteview(self):
         response = self.client.delete(f"/notes/{self.notes[0].id}", follow=True)
         assert response.status_code == 200
-        assert dict(response.data)["title"] == self.notes[0].title
+        assert dict(response.data)["title"] == "Title0"
         assert dict(response.data)["contents"] == self.notes[0].contents
