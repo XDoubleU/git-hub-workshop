@@ -29,7 +29,7 @@
     "knip": "2.15.5",
     "npm-package-json-lint": "7.0.0",
     "prettier": "3.0.3",
-    "turbo": "1.10.7"
+    "turbo": "1.10.15"
   },
   "engines": {
     "node": "16.20.x || 18.16.x",
