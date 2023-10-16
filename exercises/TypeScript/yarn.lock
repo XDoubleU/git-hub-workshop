@@ -2176,9 +2176,9 @@ bl@^4.1.0:
     readable-stream "^3.4.0"
 
 blamer@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/blamer/-/blamer-1.0.3.tgz#a130c1d82028167eba0250b3d01d066d1b7f2621"
-  integrity sha512-JalDFXndGCrTkKakC7C0H5I09ognGQrl3xJZ6wPwtiuX+9h/qcH1PbTnW+MD6mJku1ISmOAwzeWaXT79D3kg3g==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/blamer/-/blamer-1.0.6.tgz#653fd72ab396efe180bae65d24919a8eda841944"
+  integrity sha512-fv7QToPS87oD1m1bDDTf29zC/bVKJxj2Nqh1r/v4NhMtbnzDIbWOHBYIfxCjlmkVGu3FGOjKgdNG3SFm7TkvBQ==
   dependencies:
     execa "^4.0.0"
     which "^2.0.2"
