@@ -1,10 +1,9 @@
 # TypeScript exercise
 ## GitHub Action instructions
-TODO\
 Have following jobs in your GitHub Action:
-1. Build using `make build` command.
-2. Lint using `golangci/golangci-lint-action` action.
-3. Test using `make init`, `make db/migrations/up`, `make test/cov/report` commands. Also make sure to start a postgres service.
+1. Build using `yarn build` command.
+2. Lint using `yarn lint` command.
+3. Test using `yarn db:test` and `yarn test:cov` commands. Also make sure to start a postgres service.
 
 ## Code change
 TODO\
