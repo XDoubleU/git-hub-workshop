@@ -1,0 +1,24 @@
+{
+  "exclude": [
+    "classMembers",
+    "enumMembers"
+  ],
+  "ignoreWorkspaces": [
+    "packages/eslint-config-custom"
+  ],
+  "ignore": ["**/.eslintrc.js"],
+  "ignoreDependencies": ["eslint-config-custom"],
+  "workspaces": {
+    ".": {
+      "ignore": ["integration/script.js", ".yarn"]
+    },
+    "apps/api": {
+      "entry": "src/main.ts",
+      "ignore": [
+        "src/migration-files/**"
+      ],
+      "ignoreDependencies": ["ts-node", "inquirer"]
+    },
+    "packages/types-custom": {}
+  }
+}
