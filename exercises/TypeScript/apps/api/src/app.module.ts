@@ -20,10 +20,10 @@ const modules = [
 
 if (process.env.THROTTLE_DISABLED !== "true") {
   modules.push(
-    ThrottlerModule.forRoot({
+    ThrottlerModule.forRoot([{
       ttl: 10, // the number of seconds that each request will last in storage
       limit: 30 // the maximum number of requests within the TTL limit
-    })
+    }])
   )
 }
 
