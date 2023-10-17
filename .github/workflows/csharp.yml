@@ -55,10 +55,5 @@ jobs:
       - uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '6.x'
-      - run: |
-          dotnet tool install --global dotnet-ef
-          dotnet tool restore
-          dotnet ef database update
-        working-directory: './exercises/Csharp/NotesApi/NotesApi'
       - run: dotnet test NotesApi
         working-directory: './exercises/Csharp'
