@@ -32,7 +32,11 @@ jobs:
       - uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '6.x'
-      - run: dotnet format
+      - run: dotnet format NotesApi
+        working-directory: './exercises/Csharp'
+      - run: dotnet format NotesTypes
+        working-directory: './exercises/Csharp'
+      - run: dotnet format NotesTests
         working-directory: './exercises/Csharp'
 
   test:
