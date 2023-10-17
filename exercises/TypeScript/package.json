@@ -6,7 +6,6 @@
     "packages/*",
     "apps/*"
   ],
-  "type": "module",
   "scripts": {
     "dev": "dotenv -- turbo dev",
     "build": "turbo build",
