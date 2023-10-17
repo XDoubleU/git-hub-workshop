@@ -35,6 +35,8 @@ jobs:
           cache-dependency-path: './exercises/TypeScript/yarn.lock'
       - run: yarn install
         working-directory: './exercises/TypeScript'
+      - run: yarn build
+        working-directory: './exercises/TypeScript'
       - run: yarn lint
         working-directory: './exercises/TypeScript'
 
