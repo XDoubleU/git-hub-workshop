@@ -22,7 +22,7 @@ jobs:
         with:
           dotnet-version: '3.1.x'
       - run: dotnet build NotesApi
-        working-directory: './exercises/C#'
+        working-directory: './exercises/Csharp'
 
   lint:
     name: API Lint
@@ -33,7 +33,7 @@ jobs:
         with:
           dotnet-version: '3.1.x'
       - run: dotnet format
-        working-directory: './exercises/C#'
+        working-directory: './exercises/Csharp'
 
   test:
     name: API Test
@@ -56,4 +56,4 @@ jobs:
         with:
           dotnet-version: '3.1.x'
       - run: dotnet test NotesTests
-        working-directory: './exercises/C#'
+        working-directory: './exercises/Csharp'
