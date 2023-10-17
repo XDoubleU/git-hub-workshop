@@ -930,10 +930,10 @@
     globby "11.1.0"
     ts-morph "19.0.0"
 
-"@mikro-orm/seeder@5.7.13":
-  version "5.7.13"
-  resolved "https://registry.yarnpkg.com/@mikro-orm/seeder/-/seeder-5.7.13.tgz#64a89587a26a419bbf9941f7daea1c100917a556"
-  integrity sha512-8gcqyoJ5JuqFvSnQDYjqdBFnLhEYcaNBruA9hjvgqmKsflXrpXpV4LndZIgd8ypGYC9EGAfs4uWVn/6BBK5HpA==
+"@mikro-orm/seeder@5.8.9":
+  version "5.8.9"
+  resolved "https://registry.yarnpkg.com/@mikro-orm/seeder/-/seeder-5.8.9.tgz#2fc1900b632e85577d52715888157675eb3e200b"
+  integrity sha512-06z1NyLOx2RoBaenmQVpan6BZQanu+Nym0E1LMc9XZSiJPH9Z5gldVemhu1yhvgWtZ869ZyqWkxV2HqeBjE9zQ==
   dependencies:
     "@faker-js/faker" "7.6.0"
     fs-extra "11.1.1"
