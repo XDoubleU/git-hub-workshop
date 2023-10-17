@@ -32,6 +32,8 @@ jobs:
       - uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '6.x'
+      - run: dotnet ef database update
+        working-directory: './exercises/Csharp/NotesApi/NotesApi'
       - run: dotnet format NotesApi
         working-directory: './exercises/Csharp'
 
