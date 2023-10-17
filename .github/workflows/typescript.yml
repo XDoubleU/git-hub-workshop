@@ -18,7 +18,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           cache: 'yarn'
-          node-version-file: './exercises/TypeScript/package.json'
+          cache-dependency-path: './exercises/TypeScript/yarn.lock'
       - run: yarn install
         working-directory: './exercises/TypeScript'
       - run: yarn build
@@ -32,7 +32,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           cache: 'yarn'
-          node-version-file: './exercises/TypeScript/package.json'
+          cache-dependency-path: './exercises/TypeScript/yarn.lock'
       - run: yarn install
         working-directory: './exercises/TypeScript'
       - run: yarn lint
@@ -58,7 +58,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           cache: 'yarn'
-          node-version-file: './exercises/TypeScript/package.json'
+          cache-dependency-path: './exercises/TypeScript/yarn.lock'
       - run: yarn install
         working-directory: './exercises/TypeScript'
       - uses: falti/dotenv-action@v1.0.4
