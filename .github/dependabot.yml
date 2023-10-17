@@ -6,19 +6,7 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: "/solutions/Csharp/"
-    schedule:
-      interval: "monthly"
-  - package-ecosystem: "github-actions"
-    directory: "/solutions/Go/"
-    schedule:
-      interval: "monthly"
-  - package-ecosystem: "github-actions"
-    directory: "/solutions/Python/"
-    schedule:
-      interval: "monthly"
-  - package-ecosystem: "github-actions"
-    directory: "/solutions/TypeScript/"
+    directory: "/"
     schedule:
       interval: "monthly"
       
