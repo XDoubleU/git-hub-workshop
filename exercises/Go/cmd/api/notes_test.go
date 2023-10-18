@@ -158,7 +158,7 @@ func TestUpdateNote(t *testing.T) {
 	ts := httptest.NewTLSServer(testApp.routes())
 	defer ts.Close()
 
-	title := "NewNote"
+	title := "NewNote2"
 	data := dtos.UpdateNoteDto{
 		Title: &title,
 	}
@@ -177,7 +177,7 @@ func TestUpdateNote(t *testing.T) {
 
 	assert.Equal(t, rs.StatusCode, http.StatusOK)
 	assert.Equal(t, rsData.ID, fixtureData.Notes[0].ID)
-	assert.Equal(t, rsData.Title, "NewNote")
+	assert.Equal(t, rsData.Title, "NewNote2")
 	assert.Equal(t, rsData.Contents, fixtureData.Notes[0].Contents)
 }
 
