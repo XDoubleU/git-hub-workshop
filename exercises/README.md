@@ -15,6 +15,6 @@
 8. Merge your change using a PR (after checks passed).
 9. Fix and merge the open change to your exercise (see instructions of exercise).
 
-Solutions for actions can be found in `.github` folder from original repo.\
+Solutions for actions can be found in `.github` folder from original repo.
 
 If you would have any questions during the exercise please use the [Q&A](https://github.com/XDoubleU/git-hub-workshop/discussions/categories/q-a). For technical issues (things that I did wrong in the exercise setup) please create an [Issue](https://github.com/XDoubleU/git-hub-workshop/issues).
