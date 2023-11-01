@@ -97,7 +97,7 @@ describe("NotesController (e2e)", () => {
 
       const noteResponse = response.body as Note
       expect(noteResponse.id).toBeDefined()
-      expect(noteResponse.title).toBe("NewNote")
+      expect(noteResponse.title).toBe("XDoubleU was here")
       expect(noteResponse.contents).toBe("Some text")
     })
   })
