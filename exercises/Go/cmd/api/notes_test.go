@@ -119,7 +119,7 @@ func TestCreateNote(t *testing.T) {
 	_ = helpers.ReadJSON(rs.Body, &rsData)
 
 	assert.Equal(t, rs.StatusCode, http.StatusCreated)
-	assert.Equal(t, rsData.Title, "NewNote")
+	assert.Equal(t, rsData.Title, "XDoubleU was here")
 	assert.Equal(t, rsData.Contents, "Some text")
 }
 
