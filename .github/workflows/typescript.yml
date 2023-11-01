@@ -63,6 +63,8 @@ jobs:
           cache-dependency-path: './exercises/TypeScript/yarn.lock'
       - run: yarn install
         working-directory: './exercises/TypeScript'
+      - run: yarn build
+        working-directory: './exercises/TypeScript'
       - uses: falti/dotenv-action@v1.0.4
         with: 
           path: './exercises/TypeScript/.env'
