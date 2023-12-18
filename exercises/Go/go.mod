@@ -15,7 +15,7 @@ require (
 
 require (
 	github.com/stretchr/testify v1.8.4 // indirect
-	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 )
 
 require (
@@ -24,8 +24,8 @@ require (
 	github.com/jackc/pgx/v5 v5.5.0
 	github.com/jackc/puddle/v2 v2.2.1 // indirect
 	github.com/rs/cors v1.10.1
-	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 )
