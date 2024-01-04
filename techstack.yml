@@ -1,7 +1,8 @@
 repo_name: XDoubleU/git-hub-workshop
-report_id: fa74bb7c0ea3cc77fcf30e3471c53900
+report_id: 0e7a56a6dd2760d9058d32c5dde5cc69
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:49:55+00:00'
+timestamp: '2024-01-04T15:08:48+00:00'
 requested_by: XDoubleU
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Go/migrations/00001_init.sql
   detection_source: exercises/Go/migrations/00001_init.sql
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 14:40:44.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -79,6 +86,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesTests/NotesTests.csproj
   detection_source: exercises/Csharp/NotesApi/NotesTests/NotesTests.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-12-03 21:03:23.000000000 Z
@@ -151,6 +159,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/apps/api/package.json
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 20:44:15.000000000 Z
@@ -176,6 +185,7 @@ tools:
   category: Data Stores
   sub_category: PostgreSQL as a Service
   image_url: https://img.stackshare.io/service/2516/original.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi/docker-compose.yml
   detection_source: exercises/Csharp/NotesApi/NotesApi/docker-compose.yml
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 20:48:53.000000000 Z
@@ -187,6 +197,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   detection_source: exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 20:48:53.000000000 Z
@@ -198,6 +209,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 17:13:22.000000000 Z
@@ -210,6 +222,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop
   detection_source: Repo Metadata
 - name: Dotenv
   description: Loads environment variables from .env for Nodejs projects
@@ -220,6 +233,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/package.json
   detection_source: exercises/TypeScript/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-17 16:04:47.000000000 Z
@@ -232,6 +246,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/apps/api/package.json
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 20:44:15.000000000 Z
@@ -243,6 +258,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -252,6 +268,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/.github/workflows/csharp.yml
   detection_source: ".github/workflows/csharp.yml"
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-17 21:40:59.000000000 Z
@@ -277,6 +294,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesTests/NotesTests.csproj
   detection_source: exercises/Csharp/NotesApi/NotesTests/NotesTests.csproj
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 20:48:53.000000000 Z
@@ -302,6 +320,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 17:13:22.000000000 Z
@@ -313,6 +332,7 @@ tools:
   category: Monitoring
   sub_category: Exception Monitoring
   image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/apps/api/package.json
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-18 04:59:35.000000000 Z
@@ -340,6 +360,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Go/go.mod
   detection_source: exercises/Go/go.mod
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 14:40:44.000000000 Z
@@ -352,6 +373,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi.sln
   detection_source: exercises/Csharp/NotesApi/NotesApi.sln
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 20:48:53.000000000 Z
@@ -363,6 +385,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/yarn.lock
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 20:44:15.000000000 Z
@@ -374,6 +397,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/packages/eslint-config-custom/package.json
   detection_source: exercises/TypeScript/packages/eslint-config-custom/package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 20:44:15.000000000 Z
@@ -412,6 +436,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 17:13:22.000000000 Z
@@ -424,6 +449,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop
   detection_source: Repo Metadata
 - name: Swagger UI
   description: A Collection of HTML, Javascript, and CSS assets that dynamically generate
@@ -435,6 +461,7 @@ tools:
   category: Application Utilities
   sub_category: Documentation as a Service & Tools
   image_url: https://img.stackshare.io/service/3417/pIea9Ji0.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   detection_source: exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 20:48:53.000000000 Z
@@ -813,6 +840,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 17:13:22.000000000 Z
