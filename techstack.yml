@@ -2,7 +2,7 @@ repo_name: XDoubleU/git-hub-workshop
 report_id: 0e7a56a6dd2760d9058d32c5dde5cc69
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:12:56+00:00'
+timestamp: '2024-01-11T12:34:30+00:00'
 requested_by: XDoubleU
 provider: github
 branch: main
@@ -103,8 +103,8 @@ tools:
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   detection_source: exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-15 20:48:53.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-01 09:43:48.000000000 Z
 - name: ASP.NET Core
   description: A cross-platform .NET framework for building modern cloud-based web
     applications on Windows, Mac, or Linux
@@ -118,8 +118,8 @@ tools:
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   detection_source: exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-15 20:48:53.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-01 09:43:48.000000000 Z
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
     fast, flexible, and simple
@@ -134,7 +134,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-10-16 21:40:48.000000000 Z
+  last_updated_on: 2024-01-01 09:22:06.000000000 Z
 - name: NestJS
   description: A progressive Node.js framework for building efficient and scalable
     server-side applications by @kammysliwiec.
@@ -148,6 +148,18 @@ tools:
   image_url: https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
+  last_updated_by: Xander Warszawski
+  last_updated_on: 2023-10-16 20:44:15.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/packages/eslint-config-custom/package.json
+  detection_source: exercises/TypeScript/packages/eslint-config-custom/package.json
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-16 20:44:15.000000000 Z
 - name: Node.js
@@ -201,18 +213,6 @@ tools:
   detection_source: exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 20:48:53.000000000 Z
-- name: pgvector
-  description: Open-source vector similarity search for Postgres
-  website_url: https://github.com/pgvector/pgvector/
-  open_source: false
-  hosted_saas: false
-  category: Data Stores
-  sub_category: Database Tools
-  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
-  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
-  detection_source: exercises/Python/requirements.txt
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-16 17:13:22.000000000 Z
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
   website_url: https://www.docker.com/
@@ -270,8 +270,8 @@ tools:
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/.github/workflows/csharp.yml
   detection_source: ".github/workflows/csharp.yml"
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-17 21:40:59.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-01 09:43:10.000000000 Z
 - name: Jest
   description: Painless JavaScript Unit Testing
   website_url: http://facebook.github.io/jest/
@@ -418,7 +418,7 @@ tools:
 - name: xUnit
   description: An open source, community-focused unit testing tool
   website_url: http://xunit.github.io/
-  version: 2.6.2
+  version: 2.6.4
   open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
@@ -428,18 +428,6 @@ tools:
   detection_source: exercises/Csharp/NotesApi/NotesTests/NotesTests.csproj
   last_updated_by: Xander Warszawski
   last_updated_on: 2023-10-15 20:48:53.000000000 Z
-- name: LangChain
-  description: Build AI apps with LLMs through composability
-  website_url: https://github.com/hwchase17/langchain
-  open_source: true
-  hosted_saas: false
-  category: Communications
-  sub_category: Large Language Model Tools
-  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
-  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
-  detection_source: exercises/Python/requirements.txt
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-16 17:13:22.000000000 Z
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
     files. Shell scripts typically manage program execution.
@@ -469,7 +457,7 @@ tools:
   description: A high-level Python Web framework that encourages rapid development
     and clean
   package_url: https://pypi.org/project/Django
-  version: 4.2.7
+  version: 5.0.1
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
@@ -479,7 +467,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-01 09:36:37.000000000 Z
+  last_updated_on: 2024-01-07 18:41:47.000000000 Z
 - name: asgiref
   description: ASGI specs, helper code, and adapters
   package_url: https://pypi.org/project/asgiref
@@ -497,7 +485,7 @@ tools:
 - name: attrs
   description: Classes Without Boilerplate
   package_url: https://pypi.org/project/attrs
-  version: 23.1.0
+  version: 23.2.0
   license: MIT
   open_source: true
   hosted_saas: false
@@ -506,12 +494,12 @@ tools:
   image_url: https://img.stackshare.io/package/19857/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-16 17:13:22.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-07 18:41:35.000000000 Z
 - name: black
   description: The uncompromising code formatter
   package_url: https://pypi.org/project/black
-  version: 23.10.1
+  version: 23.12.1
   license: MIT
   open_source: true
   hosted_saas: false
@@ -521,7 +509,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-11-01 09:35:26.000000000 Z
+  last_updated_on: 2024-01-01 09:30:17.000000000 Z
 - name: cffi
   description: Foreign Function Interface for Python calling C code
   package_url: https://pypi.org/project/cffi
@@ -621,7 +609,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-01 09:36:37.000000000 Z
+  last_updated_on: 2024-01-07 18:41:47.000000000 Z
 - name: djangorestframework
   description: Web APIs for Django, made easy
   package_url: https://pypi.org/project/djangorestframework
@@ -635,7 +623,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-01 09:36:37.000000000 Z
+  last_updated_on: 2024-01-07 18:41:47.000000000 Z
 - name: environs
   description: Simplified environment variable parsing
   package_url: https://pypi.org/project/environs
@@ -679,7 +667,7 @@ tools:
 - name: isort
   description: A Python utility / library to sort Python imports
   package_url: https://pypi.org/project/isort
-  version: 5.12.0
+  version: 5.13.2
   license: MIT
   open_source: true
   hosted_saas: false
@@ -688,8 +676,8 @@ tools:
   image_url: https://img.stackshare.io/package/20117/default_9cf91bfbbfb266fc12a914cdc09d9e4b55c773bb.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-16 17:13:22.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-01 09:30:08.000000000 Z
 - name: marshmallow
   description: A lightweight library for converting complex datatypes to and from
     native Python datatypes
@@ -816,7 +804,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Python/requirements.txt
   detection_source: exercises/Python/requirements.txt
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-01 09:36:37.000000000 Z
+  last_updated_on: 2024-01-07 18:41:47.000000000 Z
 - name: python-dotenv
   description: Add .env support to your django/flask apps in development and deployments
   package_url: https://pypi.org/project/python-dotenv
@@ -884,7 +872,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-03 20:58:13.000000000 Z
+  last_updated_on: 2024-01-01 09:22:06.000000000 Z
 - name: "@nestjs/core"
   description: Nest - modern, fast, powerful node.js web framework
   package_url: https://www.npmjs.com/@nestjs/core
@@ -897,8 +885,8 @@ tools:
   image_url: https://img.stackshare.io/package/17223/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
-  last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-03 20:58:13.000000000 Z
+  last_updated_by: Xander Warszawski
+  last_updated_on: 2024-01-07 19:17:56.000000000 Z
 - name: "@nestjs/testing"
   description: Nest - modern
   package_url: https://www.npmjs.com/@nestjs/testing
@@ -912,7 +900,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-03 20:58:13.000000000 Z
+  last_updated_on: 2024-01-01 09:22:06.000000000 Z
 - name: "@sentry/node"
   description: Offical Sentry SDK for Node.js
   package_url: https://www.npmjs.com/@sentry/node
@@ -926,7 +914,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-10-18 04:59:35.000000000 Z
+  last_updated_on: 2024-01-01 09:19:20.000000000 Z
 - name: "@types/cookie-parser"
   description: TypeScript definitions for cookie-parser
   package_url: https://www.npmjs.com/@types/cookie-parser
@@ -954,7 +942,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-11-01 09:28:26.000000000 Z
+  last_updated_on: 2024-01-01 09:22:06.000000000 Z
 - name: "@types/jest"
   description: TypeScript definitions for Jest
   package_url: https://www.npmjs.com/@types/jest
@@ -982,7 +970,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-11-01 09:28:26.000000000 Z
+  last_updated_on: 2024-01-01 09:19:20.000000000 Z
 - name: "@types/supertest"
   description: TypeScript definitions for SuperTest
   package_url: https://www.npmjs.com/@types/supertest
@@ -1053,7 +1041,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-01 09:27:13.000000000 Z
+  last_updated_on: 2024-01-01 09:22:06.000000000 Z
 - name: class-validator
   description: Class-based validation with Typescript / ES6 / ES5 using decorators
     or validation schemas
@@ -1083,6 +1071,19 @@ tools:
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-17 16:04:33.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 13.4.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
+  detection_source: exercises/TypeScript/packages/eslint-config-custom/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-10-18 04:46:02.000000000 Z
 - name: eslint-plugin-import
   description: Import with sanity
   package_url: https://www.npmjs.com/eslint-plugin-import
@@ -1124,7 +1125,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-10-18 04:45:28.000000000 Z
+  last_updated_on: 2024-01-01 09:21:12.000000000 Z
 - name: reflect-metadata
   description: Polyfill for Metadata Reflection API
   package_url: https://www.npmjs.com/reflect-metadata
@@ -1138,7 +1139,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: Xander Warszawski
-  last_updated_on: 2023-11-01 16:57:09.000000000 Z
+  last_updated_on: 2024-01-07 19:17:56.000000000 Z
 - name: ts-jest
   description: A preprocessor with source maps support to help use TypeScript with
     Jest
@@ -1157,7 +1158,7 @@ tools:
 - name: ts-node
   description: TypeScript execution environment and REPL for node.js
   package_url: https://www.npmjs.com/ts-node
-  version: 10.9.1
+  version: 10.9.2
   license: MIT
   open_source: true
   hosted_saas: false
@@ -1167,7 +1168,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/TypeScript/yarn.lock
   detection_source: exercises/TypeScript/apps/api/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-10-18 04:45:09.000000000 Z
+  last_updated_on: 2024-01-01 09:19:20.000000000 Z
 - name: uuid
   description: RFC4122
   package_url: https://www.npmjs.com/uuid
@@ -1213,7 +1214,7 @@ tools:
 - name: crypto
   description: Go supplementary cryptography libraries
   package_url: https://pkg.go.dev/golang.org/x/crypto
-  version: 0.14.0
+  version: 0.17.0
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
@@ -1222,8 +1223,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Go/go.sum
   detection_source: exercises/Go/go.mod
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-11-01 16:30:24.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-18 23:36:56.000000000 Z
 - name: exp
   description: Experimental and deprecated packages
   package_url: https://pkg.go.dev/golang.org/x/exp
@@ -1242,7 +1243,7 @@ tools:
   description: 'Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication
     and Security Services'
   package_url: https://pkg.go.dev/github.com/google/uuid
-  version: 1.4.0
+  version: 1.5.0
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
@@ -1252,7 +1253,7 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Go/go.sum
   detection_source: exercises/Go/go.mod
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-11-01 16:53:44.000000000 Z
+  last_updated_on: 2024-01-01 09:20:55.000000000 Z
 - name: httprouter
   description: A high performance HTTP request router that scales well
   package_url: https://pkg.go.dev/github.com/julienschmidt/httprouter
@@ -1284,7 +1285,7 @@ tools:
 - name: sys
   description: Go packages for low-level interaction with the operating system
   package_url: https://pkg.go.dev/golang.org/x/sys
-  version: 0.13.0
+  version: 0.15.0
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
@@ -1298,7 +1299,7 @@ tools:
 - name: text
   description: Go text processing support
   package_url: https://pkg.go.dev/golang.org/x/text
-  version: 0.13.0
+  version: 0.14.0
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
@@ -1307,8 +1308,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Go/go.sum
   detection_source: exercises/Go/go.mod
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-15 14:40:44.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-18 23:36:56.000000000 Z
 - name: Newtonsoft.Json
   description: Json.NET is a popular high-performance JSON framework for .NET
   package_url: https://www.nuget.org/Newtonsoft.Json
@@ -1336,8 +1337,8 @@ tools:
   image_url: https://img.stackshare.io/package/13451/default_eb78542773998d1500f13778aa04738ef49376bd.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   detection_source: exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-15 20:48:53.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-01 09:43:48.000000000 Z
 - name: Swashbuckle.AspNetCore.SwaggerGen
   description: Swagger Generator for API's built on ASP.NET Core
   package_url: https://www.nuget.org/Swashbuckle.AspNetCore.SwaggerGen
@@ -1350,8 +1351,8 @@ tools:
   image_url: https://img.stackshare.io/package/13225/default_c8e572417e69bbdabda8ecc4a08c016319f24023.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   detection_source: exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-15 20:48:53.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-01 09:43:48.000000000 Z
 - name: Swashbuckle.AspNetCore.SwaggerUI
   description: Middleware to expose an embedded version of the swagger-ui from an
     ASP.NET Core application
@@ -1365,12 +1366,12 @@ tools:
   image_url: https://img.stackshare.io/package/13528/default_311009104e9efa41dc477451d8d60c2d0cbe7895.png
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
   detection_source: exercises/Csharp/NotesApi/NotesApi/NotesApi.csproj
-  last_updated_by: Xander Warszawski
-  last_updated_on: 2023-10-15 20:48:53.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-01 09:43:48.000000000 Z
 - name: xunit.runner.visualstudio
   description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
   package_url: https://www.nuget.org/xunit.runner.visualstudio
-  version: 2.5.4
+  version: 2.5.6
   license: Other
   open_source: true
   hosted_saas: false
@@ -1380,4 +1381,4 @@ tools:
   detection_source_url: https://github.com/XDoubleU/git-hub-workshop/blob/main/exercises/Csharp/NotesApi/NotesTests/NotesTests.csproj
   detection_source: exercises/Csharp/NotesApi/NotesTests/NotesTests.csproj
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-03 21:03:32.000000000 Z
+  last_updated_on: 2024-01-07 18:43:43.000000000 Z
