@@ -55,7 +55,7 @@
   "devDependencies": {
     "@mikro-orm/cli": "5.9.7",
     "@nestjs/testing": "10.2.7",
-    "@types/jest": "29.5.7",
+    "@types/jest": "29.5.11",
     "@types/node": "20.8.6",
     "@types/supertest": "2.0.12",
     "eslint": "8.51.0",
