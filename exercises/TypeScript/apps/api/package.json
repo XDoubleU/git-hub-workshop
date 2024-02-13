@@ -38,7 +38,7 @@
     "@nestjs/platform-ws": "10.2.10",
     "@nestjs/throttler": "5.0.0",
     "@nestjs/websockets": "10.2.7",
-    "@sentry/node": "7.74.1",
+    "@sentry/node": "7.99.0",
     "@sentry/tracing": "7.74.1",
     "@types/cookie-parser": "1.4.4",
     "@types/express": "4.17.17",
