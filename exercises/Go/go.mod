@@ -7,7 +7,7 @@ require github.com/justinas/alice v1.2.0
 require github.com/julienschmidt/httprouter v1.3.0
 
 require (
-	github.com/getsentry/sentry-go v0.26.0
+	github.com/getsentry/sentry-go v0.27.0
 	github.com/goddtriffin/helmet v1.0.2
 	github.com/google/uuid v1.6.0
 	golang.org/x/time v0.5.0
