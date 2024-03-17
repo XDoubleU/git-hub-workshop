@@ -32,7 +32,7 @@ jobs:
           go-version-file: './exercises/Go/go.mod'
           cache-dependency-path: './exercises/Go/go.sum'
       - name: golangci-lint
-        uses: golangci/golangci-lint-action@v3
+        uses: golangci/golangci-lint-action@v4
         with:
           version: 'latest'
           working-directory: './exercises/Go'
