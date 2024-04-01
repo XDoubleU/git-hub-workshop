@@ -29,7 +29,7 @@ pycparser==2.21
 pytest==8.0.0
 pytest-django==4.7.0
 python-dotenv==1.0.0
-pytz==2023.3.post1
+pytz==2024.1
 sqlparse==0.4.4
 tomli==2.0.1
 typing_extensions==4.10.0
