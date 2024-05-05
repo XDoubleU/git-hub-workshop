@@ -65,7 +65,7 @@ jobs:
         working-directory: './exercises/TypeScript'
       - run: yarn build
         working-directory: './exercises/TypeScript'
-      - uses: falti/dotenv-action@v1.0.4
+      - uses: falti/dotenv-action@v1.1.2
         with: 
           path: './exercises/TypeScript/.env'
       - run: yarn db:test
