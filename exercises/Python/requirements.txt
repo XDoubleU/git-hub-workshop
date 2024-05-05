@@ -11,7 +11,7 @@ Django==5.0.3
 django-debug-toolbar==4.2.0
 djangochannelsrestframework==1.2.0
 djangorestframework==3.14.0
-environs==9.5.0
+environs==11.0.0
 exceptiongroup==1.2.1
 iniconfig==2.0.0
 isort==5.13.2
