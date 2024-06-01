@@ -7,7 +7,7 @@ require github.com/justinas/alice v1.2.0
 require github.com/julienschmidt/httprouter v1.3.0
 
 require (
-	github.com/getsentry/sentry-go v0.27.0
+	github.com/getsentry/sentry-go v0.28.0
 	github.com/goddtriffin/helmet v1.0.2
 	github.com/google/uuid v1.6.0
 	golang.org/x/time v0.5.0
@@ -15,7 +15,7 @@ require (
 
 require (
 	github.com/stretchr/testify v1.8.4 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 )
 
 require (
@@ -24,7 +24,7 @@ require (
 	github.com/jackc/pgx/v5 v5.5.5
 	github.com/jackc/puddle/v2 v2.2.1 // indirect
 	github.com/rs/cors v1.11.0
-	golang.org/x/crypto v0.17.0 // indirect
+	golang.org/x/crypto v0.19.0 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
