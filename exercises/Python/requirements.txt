@@ -20,7 +20,7 @@ mypy-extensions==1.0.0
 packaging==23.2
 pathspec==0.12.1
 pipdeptree==2.16.2
-platformdirs==4.2.0
+platformdirs==4.2.2
 pluggy==1.4.0
 psycopg2==2.9.9
 pyasn1==0.5.1
