@@ -435,11 +435,6 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.57.0.tgz#a5417ae8427873f1dd08b70b3574b453e67b5f7f"
   integrity sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==
 
-"@faker-js/faker@7.6.0":
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-7.6.0.tgz#9ea331766084288634a9247fcd8b84f16ff4ba07"
-  integrity sha512-XK6BTq1NDMo9Xqw/YkYyGjSsg44fbNwYRx7QK2CuoQgyy+f1rrTDHoExVM5PsyXCtfl2vs2vVJ0MN0yN6LppRw==
-
 "@humanwhocodes/config-array@^0.11.14":
   version "0.11.14"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.14.tgz#d78e481a039f7566ecc9660b4ea7fe6b1fec442b"
@@ -868,13 +863,12 @@
     globby "11.1.0"
     ts-morph "20.0.0"
 
-"@mikro-orm/seeder@5.9.7":
-  version "5.9.7"
-  resolved "https://registry.yarnpkg.com/@mikro-orm/seeder/-/seeder-5.9.7.tgz#d0b67eca8e2ccc9e5feb091e3ad2d31565e28084"
-  integrity sha512-GldvJepHDeduwzoi1ok7fMB6Ymoo3vyDkDxRqNG/PQQEb9yCP3b5u5RQfrG+7yhBZ7vliezJnUqKBfh36opQtQ==
+"@mikro-orm/seeder@6.2.9":
+  version "6.2.9"
+  resolved "https://registry.yarnpkg.com/@mikro-orm/seeder/-/seeder-6.2.9.tgz#975ec1d414b76afa14a7dbe0b20cc4c121c781ec"
+  integrity sha512-lmuAe/yXIzjFuYpIxnkcCL0/ZZLXbhmcpdXeYhQW79rYZbZ1WMref9m5EwbOjFtHlrPn73OLSF9ZeXQcF4Rn0g==
   dependencies:
-    "@faker-js/faker" "7.6.0"
-    fs-extra "11.1.1"
+    fs-extra "11.2.0"
     globby "11.1.0"
 
 "@nestjs/cli@10.3.2":
@@ -3976,6 +3970,15 @@ fs-extra@11.1.1:
   version "11.1.1"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.1.1.tgz#da69f7c39f3b002378b0954bb6ae7efdc0876e2d"
   integrity sha512-MGIE4HOvQCeUCzmlHs0vXpih4ysz4wg9qiSAu6cd42lVwPbTM1TjV7RusoyQqMmk/95gdQZX72u+YW+c3eEpFQ==
+  dependencies:
+    graceful-fs "^4.2.0"
+    jsonfile "^6.0.1"
+    universalify "^2.0.0"
+
+fs-extra@11.2.0:
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.2.0.tgz#e70e17dfad64232287d01929399e0ea7c86b0e5b"
+  integrity sha512-PmDi3uwK5nFuXh7XDTlVnS17xJS7vW36is2+w3xcv8SVxiB4NyATf4ctkVY5bkSjX0Y4nbvZCq1/EjtEyr9ktw==
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
