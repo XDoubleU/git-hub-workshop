@@ -21,7 +21,7 @@ packaging==24.0
 pathspec==0.12.1
 pipdeptree==2.21.0
 platformdirs==4.2.2
-pluggy==1.4.0
+pluggy==1.5.0
 psycopg2==2.9.9
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
