@@ -66,6 +66,6 @@
     "ts-node": "10.9.2",
     "tsconfig-custom": "1.0.0",
     "types-custom": "1.0.0",
-    "typescript": "5.1.6"
+    "typescript": "5.4.5"
   }
 }
