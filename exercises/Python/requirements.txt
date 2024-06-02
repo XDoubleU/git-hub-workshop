@@ -7,7 +7,7 @@ click==8.1.7
 colorama==0.4.6
 cryptography==42.0.7
 dj-database-url==2.1.0
-Django==5.0.3
+Django==5.0.6
 django-debug-toolbar==4.4.2
 djangochannelsrestframework==1.2.0
 djangorestframework==3.14.0
