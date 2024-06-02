@@ -2,7 +2,7 @@ asgiref==3.8.1
 attrs==23.2.0
 black==24.4.2
 cffi==1.16.0
-channels==4.0.0
+channels==4.1.0
 click==8.1.7
 colorama==0.4.6
 cryptography==42.0.5
