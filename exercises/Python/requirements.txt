@@ -2,15 +2,15 @@ asgiref==3.8.1
 attrs==23.2.0
 black==24.4.2
 cffi==1.16.0
-channels==4.0.0
+channels==4.1.0
 click==8.1.7
 colorama==0.4.6
-cryptography==42.0.5
+cryptography==42.0.7
 dj-database-url==2.1.0
-Django==5.0.3
+Django==5.0.6
 django-debug-toolbar==4.4.2
 djangochannelsrestframework==1.2.0
-djangorestframework==3.14.0
+djangorestframework==3.15.1
 environs==11.0.0
 exceptiongroup==1.2.1
 iniconfig==2.0.0
@@ -21,7 +21,7 @@ packaging==24.0
 pathspec==0.12.1
 pipdeptree==2.21.0
 platformdirs==4.2.2
-pluggy==1.4.0
+pluggy==1.5.0
 psycopg2==2.9.9
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
@@ -33,4 +33,4 @@ pytz==2023.3.post1
 sqlparse==0.5.0
 tomli==2.0.1
 typing_extensions==4.12.1
-tzdata==2023.3
+tzdata==2024.1
