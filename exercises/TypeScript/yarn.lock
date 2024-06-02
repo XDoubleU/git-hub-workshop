@@ -961,10 +961,10 @@
   resolved "https://registry.yarnpkg.com/@nestjs/throttler/-/throttler-5.1.2.tgz#dc65634153c8b887329b1cc6061db2e556517dcb"
   integrity sha512-60MqhSLYUqWOgc38P6C6f76JIpf6mVjly7gpuPBCKtVd0p5e8Fq855j7bJuO4/v25vgaOo1OdVs0U1qtgYioGw==
 
-"@nestjs/websockets@10.2.7":
-  version "10.2.7"
-  resolved "https://registry.yarnpkg.com/@nestjs/websockets/-/websockets-10.2.7.tgz#de81e6ae8685e37d546e4bec2c15e2ba668eea32"
-  integrity sha512-NKJMubkwpUBsudbiyjuLZDT/W68K+fS/pe3vG5Ur8QoPn+fkI9SFCiQw27Cv4K0qVX2eGJ41yNmVfu61zGa4CQ==
+"@nestjs/websockets@10.3.8":
+  version "10.3.8"
+  resolved "https://registry.yarnpkg.com/@nestjs/websockets/-/websockets-10.3.8.tgz#6ed36ccf52e8aad6de53d628ef28fd40e1fa968f"
+  integrity sha512-DTSCK+FYtSTljT6XjVUUZhf1cPxKEJf1AG1y2n+ERnd0vzMpnYpMFgGkDlXqa3uC+LAMcOcx1EyTCcHsSHrOVg==
   dependencies:
     iterare "1.2.1"
     object-hash "3.0.0"
