@@ -24,7 +24,7 @@
     "test:report": "dotenv -- turbo test:report"
   },
   "dependencies": {
-    "dotenv-cli": "7.4.1",
+    "dotenv-cli": "7.4.2",
     "jscpd": "3.5.10",
     "knip": "5.17.3",
     "npm-package-json-lint": "7.1.0",
