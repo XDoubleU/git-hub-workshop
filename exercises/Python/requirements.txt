@@ -19,7 +19,7 @@ marshmallow==3.21.1
 mypy-extensions==1.0.0
 packaging==24.0
 pathspec==0.12.1
-pipdeptree==2.16.2
+pipdeptree==2.21.0
 platformdirs==4.2.2
 pluggy==1.4.0
 psycopg2==2.9.9
