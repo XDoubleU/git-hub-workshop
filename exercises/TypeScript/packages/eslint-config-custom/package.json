@@ -15,7 +15,7 @@
     "eslint-plugin-deprecation": "3.0.0",
     "eslint-plugin-import": "2.29.1",
     "eslint-plugin-redundant-undefined": "1.0.0",
-    "eslint-plugin-sonarjs": "0.24.0",
+    "eslint-plugin-sonarjs": "1.0.3",
     "eslint-plugin-turbo": "1.10.15"
   }
 }
