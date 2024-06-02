@@ -29,7 +29,7 @@
     "knip": "5.17.3",
     "npm-package-json-lint": "7.1.0",
     "prettier": "3.3.0",
-    "turbo": "1.13.0"
+    "turbo": "1.13.3"
   },
   "engines": {
     "yarn": "1.x"
