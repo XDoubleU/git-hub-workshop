@@ -10,7 +10,7 @@ dj-database-url==2.2.0
 Django==5.0.6
 django-debug-toolbar==4.4.2
 djangochannelsrestframework==1.2.0
-djangorestframework==3.15.1
+djangorestframework==3.15.2
 environs==11.0.0
 exceptiongroup==1.2.1
 iniconfig==2.0.0
