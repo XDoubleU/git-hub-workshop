@@ -17,7 +17,7 @@ iniconfig==2.0.0
 isort==5.13.2
 marshmallow==3.21.2
 mypy-extensions==1.0.0
-packaging==24.0
+packaging==24.1
 pathspec==0.12.1
 pipdeptree==2.21.0
 platformdirs==4.2.2
